@@ -1,0 +1,26 @@
+.types-help__content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background: #faf7ec;
+  gap: 30px 30px;
+}
+
+.types-help__item {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 32%;
+  width: 570px;
+  height: 257px;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  border-radius: 10px;
+  background: #FFF;
+  padding: 30px;
+}
+
+.types-help__item img {
+  width: 80px;
+  height: 80px;
+}

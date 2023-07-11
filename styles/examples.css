@@ -1,0 +1,36 @@
+.slider {
+  display: flex;
+  position: relative; 
+}
+
+.autoplay {
+  width:1500px;
+
+}
+
+/* .slick-dots {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 22px;
+  right: 80px;
+}
+
+.slick-dots li + li {
+  padding-left: 17px;
+}
+.slick-dots button {
+  font-size: 0;
+  padding: 0;
+  border: none;
+  width: 53px;
+  height: 8px;
+  background: #d23f3f;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.slick-dots button :hover,
+.slick-active button {
+  background: #4c84c3;
+} */
