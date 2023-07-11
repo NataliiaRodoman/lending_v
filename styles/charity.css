@@ -1,0 +1,22 @@
+.charity__content {
+  display: flex;
+  padding: 50px 75px;  
+  gap: 40px;
+}
+
+.charity__foto {
+  display: flex;
+  flex-basis: 50%;
+}
+
+.charity__text {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 50%;
+  gap: 10px;
+}
+
+.charity__imagcharity {
+  width: 100%;
+  height: 100%;
+}
