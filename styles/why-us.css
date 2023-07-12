@@ -1,0 +1,61 @@
+.multiple-items {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  width: 1500px;
+}
+
+.slider1 .multiple-items .slick-prev:before {
+  color: transparent;
+  background: url(../images/arrow/Group\ 965.svg) no-repeat center, #111010;
+  position: absolute;
+  z-index: 100;
+  top: 0px;
+  left: 0px;
+  font-size: 38px;
+}
+
+.slider1 .slick-next:before {
+  color: transparent;
+  background: url(../images/arrow/Group\ 966.svg) no-repeat center, #292525;
+  position: absolute;
+  top: 0px;
+  left: 80px;
+  font-size: 38px;
+}
+
+.benefits__content {
+  padding: 50px 75px;
+}
+
+.page__advantages{
+  background: url(/images/Frame\ 686904.svg) 40% no-repeat;
+  display: flex;
+  gap: 150px;
+  padding-bottom: 60px;
+}
+
+.page__box-element {
+display: flex;
+flex-direction: column;
+flex-basis: 50%;
+gap: 60px;
+}
+
+.page__element-l {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 505px;
+  text-align: end;
+}
+.page__element-r {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 505px;
+}
+
+.why-us h2 {
+  padding-bottom: 50px;
+}
