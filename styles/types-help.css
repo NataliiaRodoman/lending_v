@@ -6,12 +6,15 @@
   gap: 30px 30px;
 }
 
+.types-help__content :hover {
+  background-color: #FFD00E;
+}
+
 .types-help__item {
   display: flex;
   flex-direction: column;
   flex-basis: 32%;
   width: 570px;
-  height: 257px;
   justify-content: center;
   align-items: center;
   gap: 16px;

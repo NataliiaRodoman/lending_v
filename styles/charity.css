@@ -1,11 +1,13 @@
 .charity__content {
   display: flex;
-  padding: 50px 75px;  
+  align-items: center;
+  padding: 50px 0px;  
   gap: 40px;
 }
 
 .charity__foto {
   display: flex;
+  position: relative;
   flex-basis: 50%;
 }
 
@@ -16,7 +18,39 @@
   gap: 10px;
 }
 
+.charity__box-foto {
+  display: flex;
+  position: relative;
+  object-fit: contain;
+}
+
+.charity__foto1 {
+  display: flex;
+  position: absolute;
+  top: -150px;
+  left: 110px;
+  width: 413px;
+  z-index: 10;
+}
+
 .charity__imagcharity {
-  width: 100%;
-  height: 100%;
+  height: 80%;
+  width: 80%;
+}
+
+.charity__foto2 {
+  display: flex;
+  position: absolute;
+  top: -250px;
+  left: 420px;
+  width: 413px;
+}
+
+.charity__foto3 {
+  display: flex;
+  position: absolute;
+  top: -50px;
+  left: 420px;
+  width: 413px;
+  z-index: 15;
 }

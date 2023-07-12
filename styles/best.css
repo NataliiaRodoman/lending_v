@@ -6,8 +6,6 @@
 .best__box {
   display: flex;
   gap: 40px;
-  
-
 }
 
 .best__image {
@@ -29,7 +27,7 @@
 
 .best__label {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   gap: 50px;
 }

@@ -1,0 +1,30 @@
+.slider2 {
+  display: flex;
+  position: relative; 
+}
+
+.autoplay {
+  width:1500px;
+}
+
+.slider2 .slick-prev:before {
+  color: transparent;
+  background: url(../images/arrow/Group\ 965.svg) no-repeat center, #111010;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 38px;
+}
+
+.slider2 .slick-next:before {
+  color: transparent;
+  background: url(../images/arrow/Group\ 966.svg) no-repeat center, #292525;
+  position: absolute;
+  top: 0px;
+  left: 80px;
+  font-size: 38px;
+}
+
+.partners {
+  padding: 50px 75px;
+}
