@@ -1,14 +1,14 @@
 
 @import "fonts";
-@import "/styles/_fonts.css";
-@import "/styles/page.css";
-@import "/styles/header.css";
-@import "/styles/benefits.css";
-@import "/styles/audit.css";
-@import "/styles/best.css";
-@import "/styles/footer.css";
-@import "/styles/charity.css";
-@import "/styles/types-help.css";
-@import "/styles/partners.css";
-@import "/styles/why-us.css";
-@import "/styles/drupal.css"
+@import "./styles/_fonts.css";
+@import "./styles/page.css";
+@import "./styles/header.css";
+@import "./styles/benefits.css";
+@import "./styles/audit.css";
+@import "./styles/best.css";
+@import "./styles/footer.css";
+@import "./styles/charity.css";
+@import "./styles/types-help.css";
+@import "./styles/partners.css";
+@import "./styles/why-us.css";
+@import "./styles/drupal.css"
